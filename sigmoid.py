@@ -1,3 +1,5 @@
+#program for sigmoid function
+
 import matplotlib.pyplot as plt
 import numpy as np
 x = np.linspace(-5, 5, 100)
